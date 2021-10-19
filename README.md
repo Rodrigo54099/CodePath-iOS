@@ -1,10 +1,10 @@
-# Pre-work - _Tiply: Tip Calculatore_
+# Pre-work - _Tiply: Tip Calculator
 
 **Tiply** is a tip calculator application for iOS.
 
 Submitted by: **Rodrigo Martineze**
 
-Time spent: **5** hours spent in total
+Time spent: **5-6** hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 **Part1**
 
-<img src='https://media.giphy.com/media/fHDTajuGKziKCZbxYp/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/Z91hpsMNeXvfrChzjE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Part2**
 
@@ -47,9 +47,14 @@ GIFs created with Giphy.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Describe any challenges encountered while building the app.**
 
-
+This project was very exciting for me because this is the first iOS application I have created. That being said, there were instances where I was confused 
+on how to approach a feature. One of the main challenges I faced was learning how to use defaults to save/load user input. While the idea was not too 
+difficult to grasp, I was a bit confused with the proper syntax for loading in the data I saved. Another challenge I faced came with making sure the functions 
+I created were properly connected from the storyboard to ViewController.swift. This became a challenge when trying to have the total amount change everytime the 
+bill amount was updated. However, I was able to resolve my issue by stepping away from my work for a bit, and coming back with fresh eyes. Overall this project was 
+very helpful for me to gain an introduction into iOS mobile development.
 
 ## License
 
