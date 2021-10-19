@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/iRuiOhn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://i.imgur.com/oppt5k5.gif)
+![](https://i.imgur.com/a/G3f96cZ.gif)
 ![](https://i.imgur.com/JL1snRo.gif)
 GIF created with imgur).
 
